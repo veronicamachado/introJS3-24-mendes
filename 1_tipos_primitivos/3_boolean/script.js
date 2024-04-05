@@ -6,7 +6,7 @@ const stringDeNumeros = "3642";
 //concatenacao (+)
 
 const citacao = "Meu nome é ";
-const meuNome = "Verônica "
+const meuNome = "Verônica M. "
 console.log(citacao + meuNome);
 
 //comparacao

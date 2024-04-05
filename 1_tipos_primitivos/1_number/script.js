@@ -2,7 +2,7 @@
 
 const meuNumero = 18;
 
-const telefone = 4499877-9661;
+const telefone = 44998779661;
 
 const idade = 16;
 
